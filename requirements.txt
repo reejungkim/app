@@ -1,0 +1,12 @@
+streamlit==1.11.1
+pandas
+numpy
+matplotlib
+pydeck
+python-dotenv
+#cv2==4.6.0
+opencv-python-headless==4.5.4.60
+moviepy
+torch
+detect 
+time
